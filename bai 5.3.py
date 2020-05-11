@@ -1,5 +1,3 @@
-ds=input('ds').split()
-print(ds.pos[0]=[ ])
-print(ds.pos[-1]=[ ])
-
-
+import numpy as np
+x= np.arange(12,38)
+print(x)
